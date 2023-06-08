@@ -131,6 +131,7 @@ li{
         width: 10%;
     }
     .center-left{
+        top: 20%;
         width: 85%;
     }
     .heading{
@@ -165,6 +166,7 @@ li{
     .menu-text-heading{
         font-size: 20px;
     }
+    
     .order p{
         width: 50%;
     }
