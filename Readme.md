@@ -1,0 +1,1 @@
+to view the project click [here](https://bharatkh92.github.io/simplotel-asgmt/)
