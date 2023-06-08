@@ -166,7 +166,9 @@ li{
     .menu-text-heading{
         font-size: 20px;
     }
-    
+    .menu-para{
+        font-size: 15px;
+    }
     .order p{
         width: 50%;
     }
